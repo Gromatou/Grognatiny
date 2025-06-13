@@ -6,7 +6,7 @@
 
 * 🧬 **Organic ultra-lightweight design**: Inspired by natural forms, engineered specifically for carbon fiber.
 * 🛡️ **Full component protection**: Compact structure that perfectly encloses and shields internal components.
-* 🔧 **AIO-friendly**: Made for AIO or AIO + VTX Lite setups, such as **O4 Pro** or **JHEMCU ELVTX**.
+* 🔧 **AIO-friendly**: Made for AIO or AIO + VTX Lite setups, such as **O4 lite** or **JHEMCU ELVTX**.
 * ⚙️ **Motor compatibility**: For **1103 motors** rated **7500KV–10000KV**, running on **2S**.
 * 🎥 **Camera mount compatibility**: Fully supports all **KayouMini TPU "Camera Mounts"**.
 
