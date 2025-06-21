@@ -10,7 +10,7 @@
 ---
 
 ## usefull guides : 
-![components choice guide](recommanded-components.md)
+![components choice guide](recommended-components.md)
 
 ![wich tpu is for you, and what settigns should you use to print thems](tpu-choice-and-instructions.md)
 
