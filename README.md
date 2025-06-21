@@ -44,11 +44,11 @@ Congrats, you're a goat 🐐 — you can use an AIO with integrated VTX:
   https://fr.aliexpress.com/item/1005005121813059.html
 
 - **25€ — Caddx Baby Ratel 2**: 3.5g, 165° FOV; night flight capable, best analog cam  
-  <img src="pictures/camera-bbr2" alt="bbr2" height="300">  
+  <img src="pictures/camera-bbr2.png" alt="bbr2" height="300">  
   https://fr.aliexpress.com/item/1005009014429309.html
 
 - **17€ — BetaFPV C03**: 1.1g, 155° FOV; save 2g and 2€, good daylight cam  
-  <img src="pictures/camera-co3" alt="co3" height="300">  
+  <img src="pictures/camera-co3.png" alt="co3" height="300">  
   https://fr.aliexpress.com/item/1005007644657307.html
 
 ---
