@@ -10,11 +10,11 @@
 ---
 
 ## usefull guides : 
-![recommanded-components.md](components choice guide)
+![components choice guide](recommanded-components.md)
 
-![tpu-choice-and-instructions.md](wich tpu is for you, and what settigns should you use to print thems)
+![wich tpu is for you, and what settigns should you use to print thems](tpu-choice-and-instructions.md)
 
-![carbon-manufacturing-instructions.md](how to buy this frame, and what to ask if you want the best result)
+![how to buy this frame, and what to ask if you want the best result](carbon-manufacturing-instructions.md)
 
 
 **Grognatiny** is an **original creation**. Only the dimensions of KayouMini camera TPU mounts were used to ensure perfect compatibility.
